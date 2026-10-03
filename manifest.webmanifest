@@ -1,0 +1,15 @@
+{
+  "name": "Who Dat Bird?",
+  "short_name": "Who Dat Bird",
+  "description": "Gary the pigeon identifies your birds. Mostly correctly.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6E7F0",
+  "theme_color": "#F6E7F0",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
