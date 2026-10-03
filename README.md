@@ -3,6 +3,7 @@
 A silly bird-identification web app. Gary, a self-appointed pigeon expert, names the birds you show him and keeps a gallery ("My flock") of everything you've collected.
 
 **Status: demo mode.** All the screens work for real: camera, microphone, drawing, gallery, saving. But Gary's answers are made up for now. See [Plugging in real identification](#plugging-in-real-identification).
+Try it from your own mobilphoe on the link:https://shuijiang90.github.io/who-dat-bird/ 
 
 ## What it does
 
